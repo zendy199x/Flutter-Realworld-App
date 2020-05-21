@@ -1,4 +1,4 @@
-# realworld
+# flutter-realworld-example-app
 
 A new Flutter project.
 
